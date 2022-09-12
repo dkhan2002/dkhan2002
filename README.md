@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, law, and biology
 - 🌱 I’m currently learning biology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me gmu email
 
 <!---
 dkhan2002/dkhan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
